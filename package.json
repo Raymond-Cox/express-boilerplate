@@ -1,0 +1,16 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Boilerplate template to start an express.js project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Cox",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
