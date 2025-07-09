@@ -1,2 +1,3 @@
-# express-boilerplate
-Boilerplate template to start an express.js project
+# mentorship-node-kickoff
+
+Kickoff project to get our feet wet with Node.js and Express
