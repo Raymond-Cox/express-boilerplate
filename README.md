@@ -33,3 +33,7 @@ Currently these routes are responding with hardcoded sample data from `{root}/da
 #### Multi-user lookups
 
 - [/users](http://localhost:3000/users) will return all users.
+
+## Challenges
+
+Reference the weekly challenges [here](./challenges/)
