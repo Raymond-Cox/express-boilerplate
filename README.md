@@ -36,4 +36,4 @@ Currently these routes are responding with hardcoded sample data from `{root}/da
 
 ## Challenges
 
-Reference the weekly challenges [here](./challenges/)
+Reference the weekly challenges [here](./challenges/).
