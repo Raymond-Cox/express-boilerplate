@@ -1,5 +1,5 @@
 import express from "express";
-import users from "./data/users.json" with {type: 'json'};
+import users from "../data/users.json" with {type: 'json'};
 
 const app = express();
 const port = 3000;
@@ -13,6 +13,13 @@ app.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
+
 app.get("/users", (req, res) => {
   res.json(users);
+});
+
+app.get('/user/:user', (req, res) => {
+  console.log(req.params.user);
+  
+  res.send(`User: ${req.params.user}`);
 });

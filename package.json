@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Boilerplate template to start an express.js project",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "author": "Raymond Cox",
   "license": "MIT",
